@@ -15,7 +15,7 @@ Application Interface
 
 ## Quick Test Case
 To verify the application logic, you can use the following test data:
-* **Alphabet:** Кириллица
+* **Alphabet:** Latin
 * **Plaintext:** `HELLOWORLD`
 * **Key:** `CODE`
 * **Expected Output:** `JSOPQKRVNR` (depending on the internal unicode shift logic)
@@ -31,7 +31,7 @@ To verify the application logic, you can use the following test data:
 
 ## Возможности программы
 * **Шифрование и дешифрование:** Полная поддержка алгоритма шифра Виженера.
-* **Выбор алфавита:** Возможность переключения между различными алфавитами (включая кириллицу).
+* **Выбор алфавита:** Возможность переключения между различными алфавитами (включая латинницу).
 * **Удобный интерфейс:** Чистый и классический UI на WinForms, разделенный на независимые зоны для кодирования и декодирования текста.
 
 ## Скриншоты
