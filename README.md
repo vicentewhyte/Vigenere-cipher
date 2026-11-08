@@ -8,7 +8,9 @@ eatures
 
 ## Screenshot
 Application Interface
+
 <img width="855" height="590" alt="1" src="https://github.com/user-attachments/assets/00c52e9a-96a5-4453-a461-13e9b20a2ef1" />
+
 <img width="847" height="592" alt="2" src="https://github.com/user-attachments/assets/e73de10e-031f-499e-9dbf-331542d6372b" />
 
 ## Quick Test Case
@@ -35,7 +37,9 @@ To verify the application logic, you can use the following test data:
 ## Скриншоты
 
 Интерфейс приложения
+
 <img width="855" height="590" alt="1" src="https://github.com/user-attachments/assets/00c52e9a-96a5-4453-a461-13e9b20a2ef1" />
+
 <img width="847" height="592" alt="2" src="https://github.com/user-attachments/assets/e73de10e-031f-499e-9dbf-331542d6372b" />
 
 ## Тестовый пример для быстрой проверки
