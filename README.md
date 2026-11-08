@@ -1,7 +1,8 @@
 # EN 
 # Vigenere-cipher
 This is my implementation of the Vigenere Cipher, which I developed during college.
-eatures
+
+## Features
 * **Encryption & Decryption:** Full support for the Vigenere cipher algorithm.
 * **Alphabet Selection:** Toggle between different alphabets (including Cyrillic).
 * **User-Friendly Interface:** Clean and classic WinForms UI split into distinct areas for encoding and decoding.
