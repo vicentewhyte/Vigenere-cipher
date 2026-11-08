@@ -1,5 +1,5 @@
 # EN 
-# Vigenere-cipher
+# Vigenere Cipher (WinForms)
 This is my implementation of the Vigenere Cipher, which I developed during college.
 
 ## Features
